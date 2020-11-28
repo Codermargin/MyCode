@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3bc1d5bd-a116-45e0-86ac-4c2464a9ec6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ITLearn/src/main/java/com/xyx/DailyLeetCode/fourSumCount_454.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ITLearn/src/main/java/com/xyx/DailyLeetCode/reversePairs_493.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,26 @@
     <property name="project.structure.side.proportion" value="0.26350093" />
     <property name="settings.editor.selected.configurable" value="project.scopes" />
   </component>
+  <component name="RunManager">
+    <configuration name="reversePairs_493" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xyx.DailyLeetCode.reversePairs_493" />
+      <module name="MyCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyx.DailyLeetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.reversePairs_493" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -64,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606396710631</updated>
       <workItem from="1606396713957" duration="632000" />
-      <workItem from="1606486446754" duration="1351000" />
+      <workItem from="1606486446754" duration="1473000" />
+      <workItem from="1606540442696" duration="4514000" />
     </task>
     <task id="LOCAL-00001" summary="本地仓库-1">
       <created>1606396746155</created>
@@ -73,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606396746155</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="做题-四数相加_454">
+      <created>1606488124586</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606488124586</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,12 +109,60 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="本地仓库-1" />
-    <option name="LAST_COMMIT_MESSAGE" value="本地仓库-1" />
+    <MESSAGE value="做题-四数相加_454" />
+    <option name="LAST_COMMIT_MESSAGE" value="做题-四数相加_454" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1606488106874">
+    <state x="260" y="0" key="CommitChangelistDialog2" timestamp="1606488122875">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606488106874" />
+    <state x="260" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606488122875" />
+    <state width="1483" height="245" key="GridCell.Tab.0.bottom" timestamp="1606544997752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544997752" />
+    <state width="1483" height="245" key="GridCell.Tab.0.center" timestamp="1606544997752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.0.center/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544997752" />
+    <state width="1483" height="245" key="GridCell.Tab.0.left" timestamp="1606544997752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.0.left/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544997752" />
+    <state width="1483" height="245" key="GridCell.Tab.0.right" timestamp="1606544997752">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.0.right/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544997752" />
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom" timestamp="1606544998030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.bottom/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544998030" />
+    <state width="1483" height="245" key="GridCell.Tab.1.center" timestamp="1606544998030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.center/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544998030" />
+    <state width="1483" height="245" key="GridCell.Tab.1.left" timestamp="1606544998030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.left/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544998030" />
+    <state width="1483" height="245" key="GridCell.Tab.1.right" timestamp="1606544998030">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="245" key="GridCell.Tab.1.right/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606544998030" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1606488127468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1280.-63.1280.984@0.0.1536.824" timestamp="1606488127468" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ITLearn/src/main/java/com/xyx/DailyLeetCode/reversePairs_493.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
