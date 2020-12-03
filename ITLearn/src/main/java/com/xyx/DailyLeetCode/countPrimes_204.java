@@ -36,7 +36,7 @@ public class countPrimes_204 {
             return ans;
         }
         */
-        /*
+        /*【线性筛】
         * public int countPrimes(int n) {
             List<Integer> primes = new ArrayList<Integer>();
             int[] isPrime = new int[n];
