@@ -28,6 +28,7 @@ public class leastInterval_621 {
 
     /**
      * 任务调度器-621
+     * 【算法】贪心算法
      * 【自己做】不能全过 63/71
      * 【参考方法】贪心算法
      * 【参考链接】https://leetcode-cn.com/problems/task-scheduler/solution/jian-ming-yi-dong-de-javajie-da-by-lan-s-jfl9/
