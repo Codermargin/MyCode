@@ -14,7 +14,7 @@ public class isPossible_659 {
 
     /**
      * 分割数组为连续的子序列
-     * 【思路】哈希表+最小堆
+     * 【算法】哈希表+最小堆
      * 【时间复杂度】O(nlogn)
      * @param nums
      * @return
