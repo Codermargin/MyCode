@@ -8,7 +8,8 @@ public class reorganizeString_767 {
     }
 
     /**
-     *
+     * 重构字符串
+     * 【算法】贪心算法
      * @param S
      * @return
      */
