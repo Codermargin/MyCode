@@ -10,6 +10,7 @@ public class canCompleteCircuit_134 {
 
     /**
      * 加油站
+     * 【算法】暴力-一次遍历
      * @param gas 汽油数组
      * @param cost 耗费数组
      * @return
