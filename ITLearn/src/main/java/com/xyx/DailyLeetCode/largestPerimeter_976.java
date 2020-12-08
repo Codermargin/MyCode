@@ -8,6 +8,13 @@ public class largestPerimeter_976 {
         int res = largestPerimeter(A);
         System.out.println(res);
     }
+
+    /**
+     * 三角形的最大周长
+     * 【算法】贪心+排序
+     * @param A
+     * @return
+     */
     public static int largestPerimeter(int[] A) {
         if (A.length < 3) return 0;
         Arrays.sort(A);
