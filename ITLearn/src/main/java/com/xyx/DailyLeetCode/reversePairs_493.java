@@ -9,6 +9,7 @@ public class reversePairs_493 {
 
     /**
      * 翻转对
+     * 【算法】归并排序
      * 【法一】
      * 时间复杂度O(n^2)
      * 【法二】
