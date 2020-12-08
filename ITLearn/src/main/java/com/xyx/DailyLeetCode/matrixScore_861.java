@@ -7,7 +7,7 @@ public class matrixScore_861 {
 
     /**
      * 翻转后矩阵的得分
-     *
+     * 【算法】贪心算法
      * @param A
      * @return
      */
