@@ -15,6 +15,7 @@ public class sortList_148 {
 
     /**
      * 链表排序（归并排序）
+     * 【算法】归并排序-自顶向下
      * 【时间复杂度】0(nlog(n))
      *
      * @param head
