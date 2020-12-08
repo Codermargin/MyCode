@@ -14,7 +14,9 @@ public class insertionSortList_147 {
     }
 
     /**
+     * 对链表进行插入排序
      * 链表排序（插入排序）
+     * 【思路】从前往后找插入位置
      * 【思路】维护一个已经排序好的链表节点，并且通过curr遍历完所有的节点
      * @param head
      * @return
