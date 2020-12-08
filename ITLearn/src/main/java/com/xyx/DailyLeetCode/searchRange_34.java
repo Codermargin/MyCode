@@ -12,6 +12,7 @@ public class searchRange_34 {
 
     /**
      * 找寻数字最先出现与最后出现
+     * 【算法】二分查找
      * 【时间复杂度】O(logn)
      * @param nums
      * @param target
