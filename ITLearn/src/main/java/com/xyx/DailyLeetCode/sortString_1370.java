@@ -6,6 +6,13 @@ public class sortString_1370 {
         String s1 = sortString(s);
         System.out.println(s1);
     }
+
+    /**
+     * 上升下降字符串
+     * 【算法】桶计数算法
+     * @param s
+     * @return
+     */
     public static String sortString(String s) {
         //创建字母统计数组并赋值
         int[] num = new int[26];
