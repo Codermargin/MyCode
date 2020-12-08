@@ -9,7 +9,8 @@ public class fourSumCount_454 {
     }
 
     /**
-     * 四种和计算
+     * 四数相加Ⅱ
+     * 【算法】分组+哈希表
      * @param A
      * @param B
      * @param C
