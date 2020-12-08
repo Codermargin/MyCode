@@ -8,6 +8,8 @@ public class countPrimes_204 {
 
     /**
      * 计算质数
+     * 【算法】枚举法
+     * 【另外有学习的】埃氏筛、线性筛
      * 计算小于n的质数有几个
      * @param n
      * @return
