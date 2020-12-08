@@ -9,6 +9,13 @@ public class generate_118 {
         List<List<Integer>> result = generate(5);
         System.out.println(result);
     }
+
+    /**
+     * 杨辉三角
+     * 【思路】数学法
+     * @param numRows
+     * @return
+     */
     public static List<List<Integer>> generate(int numRows) {
         List<List<Integer>> resultList = new ArrayList<>();
         if (numRows == 0) return resultList;
