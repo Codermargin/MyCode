@@ -2,6 +2,9 @@ package com.xyx.DailyLeetCode;
 
 import java.util.List;
 
+/**
+ * 链表节点
+ */
 public class ListNode {
     int val;
     ListNode next;
