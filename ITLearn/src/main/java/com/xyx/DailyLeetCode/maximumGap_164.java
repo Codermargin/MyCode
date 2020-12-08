@@ -6,6 +6,13 @@ public class maximumGap_164 {
     public static void main(String[] args) {
 
     }
+
+    /**
+     * 最大间距
+     * 【算法】基数排序、桶排序、API
+     * @param nums
+     * @return
+     */
     public int maximumGap(int[] nums) {
         if(nums.length < 2) return 0;
         Arrays.sort(nums);
